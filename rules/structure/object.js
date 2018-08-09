@@ -1,0 +1,17 @@
+module.exports = {
+  'getter-return': 2,
+  'no-dupe-keys': 2,
+  'no-prototype-builtins': 2,
+  'access-pairs': 2,
+  'computed-property-spacing': 2,
+  'key-spacing': 2,
+  'no-new-object': 2,
+  'no-whitespace-before-property': 2,
+  'object-curly-newline': 2,
+  'object-curly-spacing': 2,
+  'object-property-newline': 2,
+  'prefer-object-spread': 2,
+  'quote-props': 2,
+  'no-useless-computed-key': 2,
+  'object-shorthand': 2,
+};

@@ -1,0 +1,29 @@
+{
+  "name": "lisar",
+  "version": "1.0.0",
+  "description": "eslint rules treated as lisa way",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterlevel1/lisar.git"
+  },
+  "keywords": [
+    "eslint",
+    "rules"
+  ],
+  "author": "cc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peterlevel1/lisar/issues"
+  },
+  "homepage": "https://github.com/peterlevel1/lisar#readme",
+  "dependencies": {
+    "babel-eslint": "^8.2.5"
+  }
+}
